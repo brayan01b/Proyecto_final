@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">proyecto1</string>
+    <string name="cart_total_format">Total: $%.2f</string>
+    <string name="price_format">$%.2f</string>
+    <string name="empty_cart_message">Tu carrito está vacío</string>
+    <string name="checkout">Finalizar compra</string>
+    <string name="checkout_confirmation_title">Confirmar compra</string>
+    <string name="checkout_confirmation_message">¿Estás seguro de que deseas finalizar la compra?</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error_no_stock">No hay stock disponible</string>
+    <string name="error_insufficient_stock">Stock insuficiente</string>
+    <string name="error_processing">Error al procesar la compra</string>
+    <string name="checkout_success">¡Compra realizada con éxito!</string>
+
+</resources>
